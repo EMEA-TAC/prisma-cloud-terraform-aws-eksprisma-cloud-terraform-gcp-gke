@@ -1,1 +1,1 @@
-# prisma-cloud-terraform-aws-eksprisma-cloud-terraform-gcp-gke
+# prisma-cloud-terraform-gcp-gke
